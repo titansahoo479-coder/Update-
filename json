@@ -1,0 +1,19 @@
+{
+  "enable": true,
+  "force": false,
+  "title": "YOUTUBE PRO",
+  "logo": "https://i.ibb.co/mCSRJDz2/Picsart-26-06-27-18-07-40-449-png.jpg",
+  "version": "Version 34.76.7",
+  "latest_version": "1.0.0",
+  "description": "• Improved Performance\n• Fixed Bugs & Crashes\n• Enhanced Security\n• Better User Experience\n• Added New Features\n• Optimized App Stability\n• Faster Loading Speed\n• Minor UI Improvements",
+  "developer": "Mod by YOMO MODZ",
+  "update_url": "https://yomostore.free.nf",
+  "background_gradient": "#5C6BC0,#7986CB",
+  "button_exit_color": "#FF416C,#FF4B2B",
+  "button_update_color": "#00FFFF,#0080FF",
+  "show_credit": true,
+  "show_version": true,
+  "show_logo": true,
+  "show_description": true,
+  "show_buttons": true
+}
